@@ -1,16 +1,10 @@
 # gcricket
 
-A new Flutter application.
+ダーツ対戦用計算機
+見やすい、使いやすいを目標に開発を行っていきます。
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 実装予定機能
+- 2人対戦機能（501）
+- 1人練習機能（Count Up, 501）
+- History機能（PPD測定表示）
+　
